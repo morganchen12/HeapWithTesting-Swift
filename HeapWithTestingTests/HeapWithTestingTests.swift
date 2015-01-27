@@ -11,7 +11,7 @@ import XCTest
 import HeapWithTesting
 
 // constant to determine the length of each array for testing
-let kNumberOfElementsInArray = 100000
+let kNumberOfElementsInArray = 1000
 
 class HeapWithTestingTests: XCTestCase {
     
